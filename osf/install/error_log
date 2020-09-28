@@ -1,0 +1,7 @@
+[03-Aug-2016 16:28:20 Greenwich] PHP Warning:  include(../../sys.inc.php): failed to open stream: No such file or directory in /home/batoisandbox/public_html/od2/osf/install/index.php on line 60
+[03-Aug-2016 16:28:20 Greenwich] PHP Warning:  include(../../sys.inc.php): failed to open stream: No such file or directory in /home/batoisandbox/public_html/od2/osf/install/index.php on line 60
+[03-Aug-2016 16:28:20 Greenwich] PHP Warning:  include(): Failed opening '../../sys.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/batoisandbox/public_html/od2/osf/install/index.php on line 60
+[03-Aug-2016 16:28:20 Greenwich] PHP Notice:  Undefined variable: _DELIGHT in /home/batoisandbox/public_html/od2/osf/ide/script/dal.inc.php on line 16
+[03-Aug-2016 16:28:20 Greenwich] PHP Notice:  Undefined variable: _DELIGHT in /home/batoisandbox/public_html/od2/osf/ide/script/dal.inc.php on line 16
+[03-Aug-2016 16:28:20 Greenwich] PHP Notice:  Undefined variable: _DELIGHT in /home/batoisandbox/public_html/od2/osf/ide/script/dal.inc.php on line 16
+[03-Aug-2016 16:28:20 Greenwich] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/batoisandbox/public_html/od2/osf/ide/class/APP.cls.php on line 61

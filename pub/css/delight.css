@@ -1,0 +1,67 @@
+$sBodyBgColor:#ffffff;
+$sBodyFont:16px;
+$sBodyFontFamily:Arial, Verdana;
+body {font-size:11px;font-family:Arial, Verdana;background-color:$sBodyBgColor;margin:0px;margin-top:5px;}
+.ui-align-left {text-align:left;}
+.ui-align-center {text-align:middle;}
+.ui-align-right {text-align:right;}
+#ui-footer {margin:10px auto;text-align:center;font-size:12px;}
+#ui-footer a {color:#384450;text-decoration:none;}
+#ui-footer a:hover {text-decoration:underline;}
+#ui-footer #link {color:#2F39FF;text-decoration:underline;}
+#ui-footer #content{background-color:#000000;color:#ffffff;height:20px;padding-top:5px;width:923px;margin-left:10px;}
+a {color:#384450;text-decoration:none;font-size:12px;}
+a:hover {text-decoration:underline;}
+
+#menuLog { font-size:1.4em; margin:0px;}
+.hidden { position:absolute; top:0; left:-9999px; width:1px; height:1px; overflow:hidden; }
+.ui-od-button { float:left; margin:0px 0px 0px 10px; padding: .4em 1em; text-decoration:none !important; cursor:pointer; position: relative; text-align: center; zoom: 1; }
+.ui-od-button .ui-icon { position: absolute; top: 50%; margin-top: -8px; left: 50%; margin-left: 1px; }
+a.ui-od-button { float:left;}
+button.ui-od-button { width:auto; overflow:visible; } /* removes extra button width in IE */
+.ui-od-button-icon-left { padding-left: 2.1em; }
+.ui-od-button-icon-right { padding-right: 2.1em; }
+.ui-od-button-icon-left .ui-icon { right: auto; left: .2em; margin-left: 0; }
+.ui-od-button-icon-right .ui-icon { left: auto; right: .2em; margin-left: 0; }
+.ui-od-button-icon-solo { display:block; width:8px; text-indent: -9999px; }	 /* solo icon buttons must have block properties for the text-indent to work */	
+.ui-od-button.ui-state-loading .ui-icon { background: url(spinner_bar.gif) no-repeat 0 0; }
+
+.ui-menu-seperator{padding-left:5px;padding-right:5px}
+#ui-header #top-menu{float:right;color:#7B7B7B;margin-right:0px;margin-top:5px;font-weight:bold;}
+.ui-menu-spacing{padding-top:7px;}
+
+.ui-content-1col {width:924px;margin-left:18px;}
+.headingtext{font-family:Arial;font-size:20px;vertical-align:top;}
+
+.ui-content-3col {width:924px;border:1px solid #000000;margin-left:17px;overflow:hidden;}
+.ui-content-3col p {margin-left:15px;margin-top:20px;margin-right:15px;margin-bottom:20px;}
+.ui-content-3col-left {float:left;width:306px;border:1px solid red;}
+#ui-layout-3col-overview-middle {float:left;width:306px;border-right:1px solid #000000;}
+#ui-layout-3col-overview-right {float:right;width:306px;border:1px solid red;clear:right;}
+
+#ui-layout-3col-content {width:924px;margin-left:17px;margin-top:20px;overflow:hidden;}
+#ui-layout-3col-content-left {float:left;width:220px;border:1px solid #000000;background-color:#FFE4BB;line-height:18px;}
+#ui-layout-3col-content-left ul {list-style:none;padding-left:0px;margin:10px;font-size:12px;font-family:Arial;color:#0A0056;font-weight:bold;}
+#ui-layout-3col-content-left li {font-weight:normal;}
+#ui-layout-3col-content-middle {float:left;width:460px;margin:0px 10px 0px 10px;line-height:18px;}
+.ui-content-middle-heading {font-size:20px;margin-top:2px;color:#0A0056;}
+
+#ui-layout-3col-content-right {font-size:12px;float:left;width:222px;line-height:18px;}
+#ui-layout-3col-content-right #search-course{float:left;background-color:#FFE4BB;width:222px;margin-top:11px;}
+.commonmargin{margin:5px 5px 5px 10px;}
+#ui-layout-3col-content-right #at-a-glance{float:left;background-color:#EE0000;width:222px;margin-top:15px;color:#ffffff;}
+#ui-layout-3col-content-right #other-stydent{float:left;background-color:#AF40CB;width:222px;margin-top:15px;color:#ffffff;margin-bottom:15px;}
+
+#ui-footer-content{float:left;width:960px;height:240px;}
+#ui-footer-left {float:left;background: url(../ui/img/footer-left.png) no-repeat;width:11px;height:235px;}
+#ui-footer-middle {float:left;background: url(../ui/img/footer-middle.png) repeat-x; height:235px;float:left;padding-left:0px;width:938px;}
+#ui-footer-right{float:right;background: url(../ui/img/footer-right.png) no-repeat; width:11px;height:235px;}
+
+#ui-footer-middle-content {float:left;width:924px;margin-top:20px;background-color:#ffffff;margin-left:8px;}
+#ui-accredition {float:left;width:909px;height:20px;color:#ffffff;background-color:#EE0000;font-weight:bold;padding-left:15px;padding-top:3px;;text-align:left;}
+#ui-accredition-image {float:left;background-color:#ffffff;margin-left:10px;width:924px;height:100px;padding-top:10px;margin-bottom:20px;}
+.brown{color:#C0280F;font-weight:normal;}
+	
+	
+	
+
